@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azatzick
 - 👀 I’m interested in anything and everything CS!
-- 🌱 I’m currently learning Computer Architecture with C 
+- 🌱 I’m Spacial Agent Based Modeling using Netlogo
 - 📫 How to reach me - message me. 
 
 <!---
