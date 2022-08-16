@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @azatzick
 - 👀 I’m interested in anything and everything CS! I am a student at Middlebury College
-- 🌱 I’m Spacial Agent Based Modeling using Netlogo
 - 📫 How to reach me - message me. 
 
 <!---
