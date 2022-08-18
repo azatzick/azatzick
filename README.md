@@ -4,7 +4,8 @@
   </a>
 
 - 👋 Hi, I’m @azatzick
-- 👀 I’m interested in anything and everything CS! I am a student at Middlebury College
-- 📫 How to reach me - message me. 
+- 👀 I'm an undergraduate student at Middlebury College majoring in CS
+- Interested in software engineering opportunities
+
 
 
